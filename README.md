@@ -15,6 +15,7 @@ Also if you have any questions, [please contact me](https://twitter.com/daraku__
 
 ## Why is it not wired?
 It is public in an unwired, because I want to see a variety of wires on one keyboard.
+
 If wired, pull request ses file under each data.
 
 /noraneko42c/.../main/dsn/{username}/
