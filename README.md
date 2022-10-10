@@ -15,12 +15,18 @@ Also if you have any questions, [please contact me](https://twitter.com/daraku__
 
 ## Why is it not wired?
 It is public in an unwired, because I want to see a variety of wires on one keyboard.
-
-If wired, pull request dns data under each data.
+If wired, pull request ses file under each data.
 
 /noraneko42c/.../main/dsn/{username}/
 
-Waiting for your beautiful wiring!
+### How to create a ses file
+1.Kicad export Specctra DSN.
+
+2.Freerouting import Specctra DSN.
+
+3.Freerouting export Specctra Session.
+
+Waiting for your beautiful wiring!！
 
 ## About Plate Data
 I only have data for elecrow.
