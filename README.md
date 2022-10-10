@@ -14,7 +14,9 @@ Also if you have any questions, [please contact me](https://twitter.com/daraku__
 
 
 ## Why is it not wired?
-It is public in an unwired, because I want to see a variety of wires on one keyboard.
+I want to see a variety of wires on one keyboard.
+
+It makes for good wiring practice.
 
 If wired, pull request kicad_pcb file under each data.
 
