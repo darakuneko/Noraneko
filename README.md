@@ -27,7 +27,7 @@ If wired, pull request ses file under each data.
 
 3.Freerouting export Specctra Session.
 
-Waiting for your beautiful wiring!！
+Waiting for your beautiful wiring!!
 
 ## About Plate Data
 I only have data for elecrow.
