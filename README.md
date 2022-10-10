@@ -29,6 +29,10 @@ If wired, pull request ses file under each data.
 
 Waiting for your beautiful wiring!!
 
+### Notes on using imported ses files
+Exported ses files may have clearance errors due to slight misalignments.
+Please correct and use the product each time.
+
 ## About Plate Data
 I only have data for elecrow.
 
