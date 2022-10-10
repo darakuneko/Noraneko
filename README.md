@@ -2,7 +2,7 @@
 Noraneko Project is an open source keyboard project.
 
 ## License
-Coffee License [en](/LICENSE) [ja](/LICENSE_JA)
+Coffee License [en](/LICENSE) / [ja](/LICENSE_JA)
 
 [☕️☕️☕️ Donation ☕️☕️☕️](https://www.amazon.co.jp/hz/wishlist/ls/66VQJTRHISQT)
 
