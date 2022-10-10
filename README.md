@@ -16,22 +16,11 @@ Also if you have any questions, [please contact me](https://twitter.com/daraku__
 ## Why is it not wired?
 It is public in an unwired, because I want to see a variety of wires on one keyboard.
 
-If wired, pull request ses file under each data.
+If wired, pull request kicad_pcb file under each data.
 
-/noraneko42c/.../main/dsn/{username}/
+/noraneko42c/.../main/wired/{username}/
 
-### How to create a ses file
-1.Kicad export Specctra DSN.
-
-2.Freerouting import Specctra DSN.
-
-3.Freerouting export Specctra Session.
-
-Waiting for your beautiful wiring!!
-
-### Notes on using imported ses files
-Exported ses files may have clearance errors due to slight misalignments.
-Please correct and use the product each time.
+example: [wired](./noraneko42c/v1.0/main/wired/)
 
 ## About Plate Data
 I only have data for elecrow.
