@@ -381,6 +381,7 @@
         "name": "PWR",
         "nets": [
           "GND",
+          "LED",
           "VCC"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
