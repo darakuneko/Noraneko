@@ -1,5 +1,6 @@
 # Noraneko42C  
 ![Noraneko42C_IMG_1](https://user-images.githubusercontent.com/5214078/194799229-ef4e0b20-bb9d-41c9-a0aa-d7715e9783fa.jpeg)
+![Noraneko42C_KeySize](https://user-images.githubusercontent.com/5214078/196393201-60cdc355-7164-41e4-bd3a-4421e170aeed.png)
 
 The Noraneko42C is 42key column staggered keyboard.  
 
