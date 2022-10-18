@@ -12,7 +12,7 @@ Main FR4 plate --- 1
 Bottom1 acrylic plate --- 1  
 Bottom2 acrylic plate --- 1  
 M2 spacer 3mm --- 9 pcs  
-M2 screw 3.5mm --- 18 pcs  (Screw heads should be 2 mm or less）  
+M2 screw 3mm --- 18 pcs  (Screw heads should be 2 mm or less）  
 ProMicro --- 1  
 Pin header 12pin or Conthrough 12pin --- 2pcs  
 1N4148W --- 42 pieces  
