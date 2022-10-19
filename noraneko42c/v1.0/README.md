@@ -14,7 +14,7 @@ Bottom2 acrylic plate --- 1
 M2 spacer 3mm --- 9 pcs  
 M2 screw 3mm --- 18 pcs  (Screw heads should be 2 mm or less）  
 ProMicro --- 1
-Pin header 12pin or ConThrough 12pin --- 2pcs(I recommend soldering Pin headers of about 0.5 mm on directly)  
+Pin header 12pin or ConThrough 12pin --- 2pcs(I recommend soldering Pin headers on directly)  
 1N4148W --- 42 pieces  
 SK6812MINI-E --- 59 pieces  
 MX key switch --- 42 pcs   
