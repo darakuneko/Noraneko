@@ -13,8 +13,8 @@ Bottom1 acrylic plate --- 1
 Bottom2 acrylic plate --- 1  
 M2 spacer 3mm --- 9 pcs  
 M2 screw 3mm --- 18 pcs  (Screw heads should be 2 mm or less）  
-ProMicro --- 1  
-Pin header 12pin or Conthrough 12pin --- 2pcs  
+ProMicro --- 1
+Pin header 12pin or ConThrough 12pin --- 2pcs(I recommend soldering Pin headers of about 0.5 mm on directly)
 1N4148W --- 42 pieces  
 SK6812MINI-E --- 59 pieces  
 MX key switch --- 42 pcs   
@@ -40,8 +40,8 @@ Be careful of the direction of soldering.
 
 ProMicro
 ![Noraneko42C_IMG_2](https://user-images.githubusercontent.com/5214078/194799234-a3ef62dd-bfc3-4b87-ab35-2c0d2923196e.jpeg)
-If you want to solder directly without using a through solder, please refer to [this page](https://kbdbuild.vercel.app/blog/yamada_pro_micro).  
-If using Conthrough, solder here.  
+For direct soldering using pin headers, see [here](https://kbdbuild.vercel.app/blog/yamada_pro_micro).  
+If using ConThrough, solder here.  
 Be careful of the direction of soldering.  
 
 ## Build
