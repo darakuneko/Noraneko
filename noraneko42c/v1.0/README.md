@@ -23,7 +23,7 @@ MX keycap 1.25U --- 4 pcs
 Bumpon --- Any quantity 
 
 ## Firmware
-[Firmware](https://remap-keys.app/catalog/JTTxjKkMqxEu2fk1qpag/firmware)
+[Firmware](https://remap-keys.app/catalog/JTTxjKkMqxEu2fk1qpag/firmware)  
 Check if the firmware can write to ProMicro.
 
 ### Feature
