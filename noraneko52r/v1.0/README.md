@@ -20,7 +20,8 @@ SK6812MINI-E --- 52 pcs
 WS2812B --- 13 pcs  
 BSS138 --- 1 pc  
 Resistor 10K Ohm 1/4 Watt PTH --- 2 pcs  
-MX key switch --- 52 pcs   
+MX key switch --- 52 pcs  
+Stabilizers 2U --- 2 pcs (GMK Screw-in Stabilizers are recommended)   
 MX keycap    
 https://booth.pximg.net/3a4d6577-cfc5-4ca5-92b6-a2b233b974d5/i/4311339/b372f2f2-1520-4431-a8cc-eac1ec2c977d.png   
 Bumpon --- Any quantity 
