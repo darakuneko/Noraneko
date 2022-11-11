@@ -4,7 +4,8 @@ Noraneko Project is an open source keyboard project.
 ## License
 Coffee License [en](/LICENSE) / [ja](/LICENSE_JA)
 
-[☕️☕️☕️ Donation ☕️☕️☕️](https://www.amazon.co.jp/hz/wishlist/ls/66VQJTRHISQT)
+☕️☕️☕️ Donation ☕️☕️☕️   
+[Amazon](https://www.amazon.co.jp/hz/wishlist/ls/66VQJTRHISQT) or [Ko-fi](https://ko-fi.com/darakuneko)  
 
 If you did sell or modify them, please let us know.
 
