@@ -27,8 +27,10 @@ https://booth.pximg.net/3a4d6577-cfc5-4ca5-92b6-a2b233b974d5/i/4311339/b372f2f2-
 Bumpon --- Any quantity 
 
 ## Firmware
+![IMG_7002](https://user-images.githubusercontent.com/5214078/201300486-a19fce27-7261-4fac-a14e-f837b712de54.jpeg)
 [Firmware](https://github.com/darakuneko/Noraneko/raw/main/noraneko52r/v1.0/firmware/noraneko52r.uf2)  
 Check if the firmware can write to RP2040-Zero.  
+Download the firmware.   
 Connect while holding down the Boot button.  
 RPI-RP2 will appear.  
 Copy the downloaded firmware to RPI-RP2.  
