@@ -20,9 +20,9 @@ It makes for good wiring practice.
 
 If wired, pull request kicad_pcb file under each data.
 
-/noraneko42c/.../main/wired/{username}/
+/noraneko42c/.../pcb/wired/{username}/
 
-example: [wired](./noraneko42c/v1.0/main/wired/)
+example: [wired](./noraneko42c/v1.0/pcb/wired/)
 
 ## About Plate Data
 I only have data for elecrow.
