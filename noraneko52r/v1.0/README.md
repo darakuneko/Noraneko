@@ -14,7 +14,7 @@ M2 spacer 3mm --- 7 pcs
 M2 screw 3mm --- 14 pcs  (Screw heads should be 2 mm or less）  
 RP2040-Zero --- 1 pc  
 Pin header 9pin --- 2 pcs   
-Pin header 5pin --- 1 pcs  
+Pin header 5pin --- 1 pc  
 1N4148W --- 52 pcs  
 SK6812MINI-E --- 52 pcs  
 WS2812B --- 13 pcs  
@@ -60,12 +60,12 @@ Be careful of the direction of soldering.
 ## Build
 ![IMG_7033](https://user-images.githubusercontent.com/5214078/201295860-cec679b7-a68d-4809-afed-8b592c872d7a.jpeg)
 ![IMG_7038](https://user-images.githubusercontent.com/5214078/201295876-89cb34b2-e620-4aa9-8709-bc26b164d308.jpg)
-The height of the screw part of the stabilizer should be 3mm or less.   
+the screw part's height of the stabilizer should be 3mm or less.   
 GMK Screw-in Stabilizers are recommended.   
 
 ![PB110438](https://user-images.githubusercontent.com/5214078/201294992-04c312f4-3235-4173-a979-cbceb61ba204.JPG)
 
-Take the bottom acrylic paper.
+Take the bottom acrylic paper.   
 Install spacers, screws, and Bumpon on bottom plate and main plate.
 
 ## Completed!!
