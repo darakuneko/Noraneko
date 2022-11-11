@@ -2,7 +2,7 @@
 ![PB110430](https://user-images.githubusercontent.com/5214078/201295075-e99c6a70-d4bb-47fc-9ccd-e66670a932c6.JPG)
 ![IMG_6999](https://user-images.githubusercontent.com/5214078/201291565-f790acc7-9356-43f2-b572-b1f4afc4b3d8.jpeg)
 
-The Noraneko52R is 52key row staggered keyboard.  
+Noraneko52R is 52key row staggered keyboard.  
 
 ## Parts  
 
