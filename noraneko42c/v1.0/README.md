@@ -63,5 +63,11 @@ Use black masking tape to hide the LEDs.
 ![IMG_6329](https://user-images.githubusercontent.com/5214078/196386015-f20594ee-d489-467e-98a4-e742261f586a.jpeg)
 
 Take the top & middle acrylic paper.  
+
+![IMG_6353](https://user-images.githubusercontent.com/5214078/198869528-17bef7ff-fe4e-40e2-ab1f-a32bc0669280.png)
+If gaps are a concern, double-sided tape can be applied.   
+Please put it on PCB or acrylic.   
+The acrylic board is black, so it can be hidden.   
+
 Put on the switches and keycaps and you're done!!
 
