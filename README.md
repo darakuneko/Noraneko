@@ -21,16 +21,15 @@ It makes for good wiring practice.
 
 If wired, pull request kicad_pcb file under each data.
 
-/noraneko42c/.../pcb/wired/{username}/
-
-example: [wired](./noraneko42c/v1.0/pcb/wired/)
+example: [wired](./noraneko42c/v1.0/pcb/wired/)  
+/{keyboard}/.../pcb/wired/{username}/ 
 
 ## About Plate Data
 I only have data for elecrow.
 
 If you have created data for other stores, please make a pull request.
 
-/noraneko42c/.../plate/{shop}/
+/{keyboard}/.../plate/{shop}/
 
 ## About Noraneko Symbol & Footprint
 base on geek-rabb1t's Symbol & Footprint.
