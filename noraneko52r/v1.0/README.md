@@ -1,6 +1,6 @@
 # Noraneko52R  
-![Noraneko52R_IMG_1](https://user-images.githubusercontent.com/5214078/196882903-22b1fa8a-44e3-4212-9d38-8bedc18b1d12.jpg)
-![Noraneko52R_KeySize](https://booth.pximg.net/3a4d6577-cfc5-4ca5-92b6-a2b233b974d5/i/4311339/b372f2f2-1520-4431-a8cc-eac1ec2c977d.png )
+![PB110430](https://user-images.githubusercontent.com/5214078/201295075-e99c6a70-d4bb-47fc-9ccd-e66670a932c6.JPG)
+![IMG_6999](https://user-images.githubusercontent.com/5214078/201291565-f790acc7-9356-43f2-b572-b1f4afc4b3d8.jpeg)
 
 The Noraneko52R is 52key row staggered keyboard.  
 
@@ -38,32 +38,31 @@ https://github.com/qmk/qmk_firmware/blob/master/docs/tap_hold.md
 ## Soldering
 
 ![IMG_5585](https://user-images.githubusercontent.com/5214078/196370976-1ae8f0df-43c9-4802-8a62-8c840f756a45.png)
-![IMG_5581](https://user-images.githubusercontent.com/5214078/196371191-c7ead6e2-4079-453d-a283-1d54c83db36f.png)
+![IMG_7017](https://user-images.githubusercontent.com/5214078/201293813-f836e7c0-ed6d-4031-ab17-09eea528efa6.jpg)
 ![IMG_5588](https://user-images.githubusercontent.com/5214078/196371378-a40fc202-53ea-49b4-a9e6-ca88323a2bc1.png)
-![IMG_5607](https://user-images.githubusercontent.com/5214078/196380054-ba2779cc-2d44-4c17-8769-0dd8c82033f4.jpeg)
-![IMG_5610](https://user-images.githubusercontent.com/5214078/196380073-f1c55c8b-3322-45ab-a98f-bbc652R20780.jpeg)
 
 Solder diodes, LEDs, and sockets.　  
 Be careful of the direction of soldering.
 
 RP2040-Zero
-![Noraneko52R_IMG_2](https://user-images.githubusercontent.com/5214078/194799234-a3ef62dd-bfc3-4b87-ab35-2c0d2923196e.jpeg)
+![IMG_7023](https://user-images.githubusercontent.com/5214078/201294180-8c683e09-8754-45ca-b107-74b136b59aa8.jpeg)
 For direct soldering using pin headers, see [here](https://kbdbuild.vercel.app/blog/yamada_pro_micro).  
-If using ConThrough, solder here.  
+This is doing this with ProMicro, but it is the same with RP2040-Zero.   
 Be careful of the direction of soldering.  
 
 ## Build
-![IMG_6314](https://user-images.githubusercontent.com/5214078/196375298-ba2583eb-2736-472f-bc3e-64dff0c26f3b.png)
+![IMG_7033](https://user-images.githubusercontent.com/5214078/201295860-cec679b7-a68d-4809-afed-8b592c872d7a.jpeg)
+![IMG_7038](https://user-images.githubusercontent.com/5214078/201295876-89cb34b2-e620-4aa9-8709-bc26b164d308.jpg)
+The height of the screw part of the stabilizer should be 3mm or less.   
+GMK Screw-in Stabilizers are recommended.   
+
+![PB110438](https://user-images.githubusercontent.com/5214078/201294992-04c312f4-3235-4173-a979-cbceb61ba204.JPG)
 
 Take the bottom acrylic paper.
 Install spacers, screws, and Bumpon on bottom plate and main plate.
 
-![IMG_5617](https://user-images.githubusercontent.com/5214078/196375780-c3ffb541-0a2e-47f8-bfd1-9453e8ca8521.jpg)
-Use black masking tape to hide the LEDs.
-
 ## Completed!!
-![IMG_6323](https://user-images.githubusercontent.com/5214078/196386005-e37d383a-50cc-4467-bee8-0927a232b3dd.jpeg)
-![IMG_6329](https://user-images.githubusercontent.com/5214078/196386015-f20594ee-d489-467e-98a4-e742261f586a.jpeg)
+![PB110430](https://user-images.githubusercontent.com/5214078/201295075-e99c6a70-d4bb-47fc-9ccd-e66670a932c6.JPG)
 
 Take the top & middle acrylic paper.  
 Put on the switches and keycaps and you're done!!
