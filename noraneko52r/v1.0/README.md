@@ -44,12 +44,14 @@ https://github.com/qmk/qmk_firmware/blob/master/docs/tap_hold.md
 
 ## Soldering
 ![IMG_7020](https://user-images.githubusercontent.com/5214078/201305293-fc02600c-bd61-48fc-b5ba-b1e6f3c53741.jpeg)
+![IMG_7021](https://user-images.githubusercontent.com/5214078/201386019-704d5e56-faff-4dc6-a010-397cb9949110.jpeg)
 ![IMG_5585](https://user-images.githubusercontent.com/5214078/196370976-1ae8f0df-43c9-4802-8a62-8c840f756a45.png)
 ![IMG_7017](https://user-images.githubusercontent.com/5214078/201293813-f836e7c0-ed6d-4031-ab17-09eea528efa6.jpg)
 ![IMG_5588](https://user-images.githubusercontent.com/5214078/196371378-a40fc202-53ea-49b4-a9e6-ca88323a2bc1.png)
 
 Solder BSS138, Resistors, diodes, LEDs, and sockets.　  
-Be careful of the direction of soldering.
+Be careful of the direction of soldering.  
+But Resistors has no polarity.
 
 RP2040-Zero
 ![IMG_7023](https://user-images.githubusercontent.com/5214078/201294180-8c683e09-8754-45ca-b107-74b136b59aa8.jpeg)
