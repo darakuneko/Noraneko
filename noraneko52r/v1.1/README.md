@@ -9,7 +9,8 @@ Noraneko52R is 52key row staggered keyboard.
 Top acrylic plate --- 1 pc  
 Middle acrylic plate --- 1 pc   
 Main FR4 plate --- 1 pc   
-Bottom acrylic plate --- 1 pc   
+Bottom1 acrylic plate --- 1 pc   
+Bottom2 acrylic plate --- 1 pc   
 M2 spacer 3mm --- 7 pcs  
 M2 screw 3mm --- 14 pcs  (Screw heads should be 2 mm or less）  
 RP2040-Zero --- 1 pc  
@@ -65,9 +66,10 @@ Be careful of the direction of soldering.
 the screw part's height of the stabilizer should be 3mm or less.   
 GMK Screw-in Stabilizers are recommended.   
 
-![PB110438](https://user-images.githubusercontent.com/5214078/201294992-04c312f4-3235-4173-a979-cbceb61ba204.JPG)
+![IMG_9545](https://user-images.githubusercontent.com/5214078/222672730-8065d73a-69cd-4bf5-8046-b6fc88dca5c8.jpeg)
+![IMG_9546](https://user-images.githubusercontent.com/5214078/222673334-6bbdc56b-8281-475e-9fb2-d92db8bd3901.jpeg)
 
-Take the bottom acrylic paper.   
+Take the bottom1 & bottom2 acrylic paper.   
 Install spacers, screws, and Bumpon on bottom plate and main plate.
 
 ## Completed!!
