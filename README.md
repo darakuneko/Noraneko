@@ -24,6 +24,9 @@ If wired, pull request kicad_pcb file under each data.
 example: [wired](./noraneko42c/v1.0/pcb/wired/)  
 /{keyboard}/.../pcb/wired/{username}/ 
 
+### Wiring Engineer
+[blackout](https://github.com/blackout157w) - [Noraneko52R v1.0](https://github.com/darakuneko/Noraneko/tree/main/noraneko52r/v1.0/pcb/wired/blackout)
+
 ## About Plate Data
 I only have data for elecrow.
 
