@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Noraneko")(type "KiCad")(uri "${KIPRJMOD}/symbol/noraneko.kicad_sym")(options "")(descr ""))
+)
