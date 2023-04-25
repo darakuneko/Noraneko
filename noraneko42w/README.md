@@ -31,7 +31,7 @@ Download the firmware.
 Connect while holding down the Boot button.  
 RPI-RP2 will appear.  
 Copy the downloaded firmware to RPI-RP2.  
-Make sure that Noraneko52R is connected to your PC.
+Make sure that Noraneko42W is connected to your PC.
 
 ### Feature
 CAPS WORD  
@@ -62,4 +62,13 @@ Install spacers, screws, and Bumpon on bottom plate and main plate.
 
 Take the top & middle acrylic paper.  
 Put on the switches and keycaps and you're done!!
+
+## Vial 
+https://get.vial.today/  
+This firmware is Vial-compatible, allowing GUI-based changes to keymaps and settings.  
+
+Web version  
+https://vial.rocks/  
+App version  
+https://get.vial.today/download/  
 
