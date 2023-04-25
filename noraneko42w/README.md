@@ -1,6 +1,7 @@
-# Noraneko42W  
-![PB110430](https://user-images.githubusercontent.com/5214078/201295075-e99c6a70-d4bb-47fc-9ccd-e66670a932c6.JPG)
-![IMG_6999](https://user-images.githubusercontent.com/5214078/201291565-f790acc7-9356-43f2-b572-b1f4afc4b3d8.jpeg)
+# Noraneko42W
+![50a99a97-50b3-4ec9-9da6-afe0eab611db](https://user-images.githubusercontent.com/5214078/234233830-b950278c-9dc0-409d-80ea-9711eaa28864.png)
+![77f7c019-44f0-4f18-8f08-11a2cd835d37](https://user-images.githubusercontent.com/5214078/234233882-9f5b7b9d-7cc3-4c86-afa1-ace0eb25df0a.png)
+
 
 Noraneko42W is 42key Willow Layout keyboard.  
 
@@ -24,7 +25,7 @@ Bumpon --- Any quantity
 
 ## Firmware
 ![IMG_7002](https://user-images.githubusercontent.com/5214078/201300486-a19fce27-7261-4fac-a14e-f837b712de54.jpeg)
-[Firmware](https://github.com/darakuneko/Noraneko/raw/main/noraneko52r/v1.0/firmware/noraneko52r.uf2)  
+[Firmware](https://github.com/darakuneko/Noraneko/raw/main/noraneko42w/v1.0/firmware/noraneko42w_vial.uf2)  
 Check if the firmware can write to RP2040-Zero.  
 Download the firmware.   
 Connect while holding down the Boot button.  
@@ -45,24 +46,18 @@ https://github.com/qmk/qmk_firmware/blob/master/docs/tap_hold.md
 ![IMG_7017](https://user-images.githubusercontent.com/5214078/201293813-f836e7c0-ed6d-4031-ab17-09eea528efa6.jpg)
 ![IMG_5588](https://user-images.githubusercontent.com/5214078/196371378-a40fc202-53ea-49b4-a9e6-ca88323a2bc1.png)
 
-Solder BSS138, Resistors, diodes, LEDs, and sockets.　  
+RP2040-Zero, Solder BSS138, Resistors, diodes, LEDs, and sockets.　  
 Be careful of the direction of soldering.  
 But Resistors has no polarity.
 
-RP2040-Zero
-![IMG_7023](https://user-images.githubusercontent.com/5214078/201294180-8c683e09-8754-45ca-b107-74b136b59aa8.jpeg)
-For direct soldering using pin headers, see [here](https://kbdbuild.vercel.app/blog/yamada_pro_micro).  
-This is doing this with ProMicro, but it is the same with RP2040-Zero.   
-Be careful of the direction of soldering.  
-
 ## Build
-![PB110438](https://user-images.githubusercontent.com/5214078/201294992-04c312f4-3235-4173-a979-cbceb61ba204.JPG)
+![77f7c019-44f0-4f18-8f08-11a2cd835d37](https://user-images.githubusercontent.com/5214078/234233882-9f5b7b9d-7cc3-4c86-afa1-ace0eb25df0a.png)
 
 Take the bottom acrylic paper.   
 Install spacers, screws, and Bumpon on bottom plate and main plate.
 
 ## Completed!!
-![PB110430](https://user-images.githubusercontent.com/5214078/201295075-e99c6a70-d4bb-47fc-9ccd-e66670a932c6.JPG)
+![50a99a97-50b3-4ec9-9da6-afe0eab611db](https://user-images.githubusercontent.com/5214078/234233830-b950278c-9dc0-409d-80ea-9711eaa28864.png)
 
 Take the top & middle acrylic paper.  
 Put on the switches and keycaps and you're done!!
