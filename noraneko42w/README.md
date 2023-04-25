@@ -20,7 +20,7 @@ WS2812B --- 13 pcs
 BSS138 --- 1 pc  
 Resistor 10K Ohm 1/4 Watt PTH --- 2 pcs  
 MX key switch --- 42 pcs    
-MX keycap   --- 42 pcs (1U)
+MX keycap   --- 42 pcs (1U)   
 Bumpon --- Any quantity 
 
 ## Firmware
@@ -45,8 +45,9 @@ https://github.com/qmk/qmk_firmware/blob/master/docs/tap_hold.md
 ![IMG_5585](https://user-images.githubusercontent.com/5214078/196370976-1ae8f0df-43c9-4802-8a62-8c840f756a45.png)
 ![IMG_7017](https://user-images.githubusercontent.com/5214078/201293813-f836e7c0-ed6d-4031-ab17-09eea528efa6.jpg)
 ![IMG_5588](https://user-images.githubusercontent.com/5214078/196371378-a40fc202-53ea-49b4-a9e6-ca88323a2bc1.png)
+![unnamed](https://user-images.githubusercontent.com/5214078/234236638-de475c43-c586-493f-8152-63ca74c02ff0.jpg)
 
-RP2040-Zero, Solder BSS138, Resistors, diodes, LEDs, and sockets.　  
+RP2040-Zero(SMD), Solder BSS138, Resistors, diodes, LEDs, and sockets.　  
 Be careful of the direction of soldering.  
 But Resistors has no polarity.
 
