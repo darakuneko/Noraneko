@@ -47,5 +47,6 @@ Column Staggered Keyboard.
 ## Noraneko52R
 Row Staggered Keyboard.
 ![PB110431](https://user-images.githubusercontent.com/5214078/201291403-1c507f01-ba00-48f3-926b-d54291d19f54.JPG)
-![IMG_6999](https://user-images.githubusercontent.com/5214078/201291565-f790acc7-9356-43f2-b572-b1f4afc4b3d8.jpeg)
 
+## Noraneko42W
+![50a99a97-50b3-4ec9-9da6-afe0eab611db](https://user-images.githubusercontent.com/5214078/234232035-21e9161c-7eff-4cfc-bbf7-1bc0bbb31d1e.png)
