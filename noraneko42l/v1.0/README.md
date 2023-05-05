@@ -2,7 +2,7 @@
 ![IMG_0918](https://user-images.githubusercontent.com/5214078/236359157-51a97c6f-2a56-4a80-a362-1c1098d21168.jpeg)
 ![IMG_0757](https://user-images.githubusercontent.com/5214078/236359170-afb49d4c-0c8e-48a6-b444-e25247330236.jpeg)
 
-Noraneko42L is 42key Willow Layout keyboard.  
+Noraneko42L is 42key Lotus Layout keyboard.  
 
 ## Parts  
 
