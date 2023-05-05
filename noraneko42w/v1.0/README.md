@@ -36,8 +36,6 @@ Make sure that Noraneko42W is connected to your PC.
 ### Feature
 CAPS WORD  
 https://github.com/qmk/qmk_firmware/blob/master/docs/feature_caps_word.md   
-Dynamic Tapping Term   
-https://github.com/qmk/qmk_firmware/blob/master/docs/tap_hold.md  
 
 ## Soldering
 ![IMG_7020](https://user-images.githubusercontent.com/5214078/201305293-fc02600c-bd61-48fc-b5ba-b1e6f3c53741.jpeg)
