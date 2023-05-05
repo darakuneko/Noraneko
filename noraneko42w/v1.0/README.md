@@ -1,5 +1,5 @@
 # Noraneko42W
-![50a99a97-50b3-4ec9-9da6-afe0eab611db](https://user-images.githubusercontent.com/5214078/234233830-b950278c-9dc0-409d-80ea-9711eaa28864.png)
+![IMG_0997](https://user-images.githubusercontent.com/5214078/236360290-e5d74d66-4fdc-4d01-998e-0f6cf52e253a.jpeg)
 ![77f7c019-44f0-4f18-8f08-11a2cd835d37](https://user-images.githubusercontent.com/5214078/234233882-9f5b7b9d-7cc3-4c86-afa1-ace0eb25df0a.png)
 
 
@@ -61,7 +61,7 @@ If you are concerned about LED flicker caused by acrylic.
 https://twitter.com/daraku__neko/status/1652335060878753798
 
 ## Completed!!
-![50a99a97-50b3-4ec9-9da6-afe0eab611db](https://user-images.githubusercontent.com/5214078/234233830-b950278c-9dc0-409d-80ea-9711eaa28864.png)
+![IMG_0997](https://user-images.githubusercontent.com/5214078/236360290-e5d74d66-4fdc-4d01-998e-0f6cf52e253a.jpeg)
 
 Take the top & middle acrylic paper.  
 Put on the switches and keycaps and you're done!!
