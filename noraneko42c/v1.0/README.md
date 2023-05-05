@@ -58,6 +58,9 @@ Install spacers, screws, and Bumpon on bottom plate and main plate.
 ![IMG_5617](https://user-images.githubusercontent.com/5214078/196375780-c3ffb541-0a2e-47f8-bfd1-9453e8ca8521.jpg)
 Use black masking tape to hide the LEDs.
 
+If you are concerned about LED flicker caused by acrylic.  
+https://twitter.com/daraku__neko/status/1652335060878753798
+
 ## Completed!!
 ![IMG_6323](https://user-images.githubusercontent.com/5214078/196386005-e37d383a-50cc-4467-bee8-0927a232b3dd.jpeg)
 ![IMG_6329](https://user-images.githubusercontent.com/5214078/196386015-f20594ee-d489-467e-98a4-e742261f586a.jpeg)
