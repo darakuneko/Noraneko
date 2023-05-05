@@ -51,3 +51,9 @@ Row Staggered Keyboard.
 ## Noraneko42W
 Willow Layout Keyboard.
 ![50a99a97-50b3-4ec9-9da6-afe0eab611db](https://user-images.githubusercontent.com/5214078/234232035-21e9161c-7eff-4cfc-bbf7-1bc0bbb31d1e.png)
+
+# Noraneko42L
+Lotus Layout Keyboard.
+![IMG_0918](https://user-images.githubusercontent.com/5214078/236359157-51a97c6f-2a56-4a80-a362-1c1098d21168.jpeg)
+
+
