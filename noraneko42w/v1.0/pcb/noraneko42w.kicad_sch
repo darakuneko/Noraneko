@@ -2744,8 +2744,8 @@
     (property "Datasheet" "~" (at 50.419 59.817 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e9c0bbde-9b73-449f-b50c-36f1403a9e59))
-    (pin "2" (uuid 15e0bbfa-6ff1-409d-9a8c-04a6b9cfac45))
+    (pin "1" (uuid e7932922-4f7f-4da4-bbdd-b251661cc209))
+    (pin "2" (uuid 1e3575d2-de1e-4f8c-a22f-2eaa175fe159))
     (instances
       (project "noraneko42w"
         (path "/c264c438-a475-4ad4-9915-0f1e6ecf3053"
