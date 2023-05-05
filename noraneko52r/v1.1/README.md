@@ -72,6 +72,9 @@ GMK Screw-in Stabilizers are recommended.
 Take the bottom1 & bottom2 acrylic paper.   
 Install spacers, screws, and Bumpon on bottom plate and main plate.
 
+If you are concerned about LED flicker caused by acrylic.  
+https://twitter.com/daraku__neko/status/1652335060878753798
+
 ## Completed!!
 ![PB110430](https://user-images.githubusercontent.com/5214078/201295075-e99c6a70-d4bb-47fc-9ccd-e66670a932c6.JPG)
 
