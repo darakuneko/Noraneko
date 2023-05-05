@@ -1,7 +1,6 @@
 # Noraneko42L
-![50a99a97-50b3-4ec9-9da6-afe0eab611db](https://user-images.githubusercontent.com/5214078/234233830-b950278c-9dc0-409d-80ea-9711eaa28864.png)
-![77f7c019-44f0-4f18-8f08-11a2cd835d37](https://user-images.githubusercontent.com/5214078/234233882-9f5b7b9d-7cc3-4c86-afa1-ace0eb25df0a.png)
-
+![IMG_0918](https://user-images.githubusercontent.com/5214078/236359157-51a97c6f-2a56-4a80-a362-1c1098d21168.jpeg)
+![IMG_0757](https://user-images.githubusercontent.com/5214078/236359170-afb49d4c-0c8e-48a6-b444-e25247330236.jpeg)
 
 Noraneko42L is 42key Willow Layout keyboard.  
 
@@ -52,13 +51,16 @@ Be careful of the direction of soldering.
 But Resistors has no polarity.
 
 ## Build
-![77f7c019-44f0-4f18-8f08-11a2cd835d37](https://user-images.githubusercontent.com/5214078/234233882-9f5b7b9d-7cc3-4c86-afa1-ace0eb25df0a.png)
+![IMG_0757](https://user-images.githubusercontent.com/5214078/236359224-5ccf51fc-f394-4d8e-bbf1-bedc44bc3668.jpeg)
 
 Take the bottom acrylic paper.   
-Install spacers, screws, and Bumpon on bottom plate and main plate.
+Install spacers, screws, and Bumpon on bottom plate and main plate.   
+
+If you are concerned about LED flicker caused by acrylic.  
+https://twitter.com/daraku__neko/status/1652335060878753798
 
 ## Completed!!
-![50a99a97-50b3-4ec9-9da6-afe0eab611db](https://user-images.githubusercontent.com/5214078/234233830-b950278c-9dc0-409d-80ea-9711eaa28864.png)
+![IMG_0918](https://user-images.githubusercontent.com/5214078/236359157-51a97c6f-2a56-4a80-a362-1c1098d21168.jpeg)
 
 Take the top & middle acrylic paper.  
 Put on the switches and keycaps and you're done!!
