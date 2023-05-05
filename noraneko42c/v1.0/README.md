@@ -30,6 +30,9 @@ Check if the firmware can write to ProMicro.
 CAPS WORD  
 https://github.com/qmk/qmk_firmware/blob/master/docs/feature_caps_word.md   
 
+Dynamic Tapping Term   
+https://github.com/qmk/qmk_firmware/blob/master/docs/tap_hold.md  
+
 ## Soldering
 
 ![IMG_5585](https://user-images.githubusercontent.com/5214078/196370976-1ae8f0df-43c9-4802-8a62-8c840f756a45.png)
