@@ -57,6 +57,9 @@ But Resistors has no polarity.
 Take the bottom acrylic paper.   
 Install spacers, screws, and Bumpon on bottom plate and main plate.
 
+If you are concerned about LED flicker caused by acrylic.  
+https://twitter.com/daraku__neko/status/1652335060878753798
+
 ## Completed!!
 ![50a99a97-50b3-4ec9-9da6-afe0eab611db](https://user-images.githubusercontent.com/5214078/234233830-b950278c-9dc0-409d-80ea-9711eaa28864.png)
 
