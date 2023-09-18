@@ -20,7 +20,9 @@ Pin header 5pin --- 1 pc
 SK6812MINI-E --- 52 pcs  
 WS2812B --- 13 pcs  
 BSS138 --- 1 pc  
-Resistor 10K Ohm 1/4 Watt PTH --- 2 pcs  
+Resistor 1K Ohm 1/4 Watt PTH --- 2 pcs   
+If it does not glow, change the type of resistor. ([reference](https://25keys.com/2022/05/28/rp2040_sk6812mini/))   
+
 MX key switch --- 52 pcs  
 Stabilizers 2U --- 2 pcs (GMK Screw-in Stabilizers are recommended)   
 MX keycap    
@@ -29,7 +31,7 @@ Bumpon --- Any quantity
 
 ## Firmware
 ![IMG_7002](https://user-images.githubusercontent.com/5214078/201300486-a19fce27-7261-4fac-a14e-f837b712de54.jpeg)
-[Firmware](https://github.com/darakuneko/Noraneko/raw/main/noraneko52r/v1.0/firmware/noraneko52r.uf2)  
+[Firmware](https://github.com/darakuneko/Noraneko/raw/main/noraneko52r/v1.0/firmware/noraneko52r_vial.uf2)  
 Check if the firmware can write to RP2040-Zero.  
 Download the firmware.   
 Connect while holding down the Boot button.  

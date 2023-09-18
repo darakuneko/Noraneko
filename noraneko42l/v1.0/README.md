@@ -17,7 +17,8 @@ RP2040-Zero --- 1 pc
 SK6812MINI-E --- 42 pcs  
 WS2812B --- 13 pcs  
 BSS138 --- 1 pc  
-Resistor 10K Ohm 1/4 Watt PTH --- 2 pcs  
+Resistor 1K Ohm 1/4 Watt PTH --- 2 pcs   
+If it does not glow, change the type of resistor. ([reference](https://25keys.com/2022/05/28/rp2040_sk6812mini/))   
 MX key switch --- 42 pcs    
 MX keycap   --- 42 pcs (1U)   
 Bumpon --- Any quantity 
