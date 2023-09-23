@@ -17,6 +17,7 @@ RP2040-Zero --- 1 pc
 1N4148W --- 42 pcs   
 SK6812MINI-E --- 47 pcs  
 WS2812B --- 6 pcs  
+BSS138 --- 1 pc
 MX key switch --- 42 pcs   
 MX keycap 1U --- 38 pcs  
 MX keycap 1.25U --- 4 pcs  
