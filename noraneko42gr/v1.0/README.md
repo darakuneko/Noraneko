@@ -36,7 +36,8 @@ Download the firmware.
 Connect while holding down the Boot button.  
 RPI-RP2 will appear.  
 Copy the downloaded firmware to RPI-RP2.  
-Make sure that Noraneko42GR is connected to your PC.
+Make sure that Noraneko42GR is connected to your PC.   
+[Vial Support](https://get.vial.today/)  
 
 ## Soldering
 ![IMG_7020](https://user-images.githubusercontent.com/5214078/201305293-fc02600c-bd61-48fc-b5ba-b1e6f3c53741.jpeg)
