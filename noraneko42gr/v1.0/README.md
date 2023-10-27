@@ -1,6 +1,6 @@
 # Noraneko42GR  
 ![IMG_0182](https://github.com/darakuneko/Noraneko/assets/5214078/35cf5e98-fbaf-432c-9d15-b2cdff0c9e14)
-![keyboard-layout](https://github.com/darakuneko/Noraneko/assets/5214078/daf1daa3-7a53-42cd-a9ea-479029672bdb)
+![keyboard-layout](https://booth.pximg.net/3a4d6577-cfc5-4ca5-92b6-a2b233b974d5/i/5205947/9cde4365-2508-4a56-87a9-239841188a0f.jpg)
 
 The Noraneko42GR is 42key GRIN Layout keyboard.  
 
