@@ -58,4 +58,4 @@ Lotus Layout Keyboard.
 
 # Noraneko42GR
 Grin Layout Keyboard.
-![IMG_0182](https://github.com/darakuneko/Noraneko/assets/5214078/35cf5e98-fbaf-432c-9d15-b2cdff0c9e14)
+![IMG_0357](https://github.com/darakuneko/Noraneko/assets/5214078/11142d2c-e638-43ef-bdb7-a8958c9bca8f)
