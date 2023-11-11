@@ -1,5 +1,5 @@
 # Noraneko42GR  
-![IMG_0182](https://github.com/darakuneko/Noraneko/assets/5214078/35cf5e98-fbaf-432c-9d15-b2cdff0c9e14)
+![IMG_0357](https://github.com/darakuneko/Noraneko/assets/5214078/11142d2c-e638-43ef-bdb7-a8958c9bca8f)
 ![keyboard-layout](https://booth.pximg.net/3a4d6577-cfc5-4ca5-92b6-a2b233b974d5/i/5205947/9cde4365-2508-4a56-87a9-239841188a0f.jpg)
 
 The Noraneko42GR is 42key GRIN Layout keyboard.  
@@ -11,8 +11,9 @@ Middle acrylic plate --- 1 pc
 Main FR4 plate --- 1 pc  
 Bottom1 acrylic plate --- 1 pc    
 Bottom2 acrylic plate --- 1 pc  
-M2 spacer 3mm --- 6 pcs  
-M2 screw 3mm --- 12 pcs  (Screw heads should be 2 mm or less）  
+M2 spacer 3mm --- 7 pcs  
+M2 washer --- 7 pcs  (about 5mm in diameter）  
+M2 screw 3mm --- 14 pcs  (Screw heads should be 2 mm or less）  
 RP2040-Zero --- 1 pc   
 Conthrough --- 23 pin (MAC8 XB-3 height at least 3 mm)    
 1N4148W --- 42 pcs   
@@ -21,7 +22,6 @@ WS2812B --- 6 pcs
 BSS138 --- 1 pc     
 Resistor 1K Ohm 1/4 Watt PTH --- 2 pcs   
 If it does not glow, change the type of resistor. ([reference](https://25keys.com/2022/05/28/rp2040_sk6812mini/))   
-
 MX key switch --- 42 pcs   
 Stabilizers 2U --- 2 pcs    
 MX keycap    
@@ -30,7 +30,7 @@ Bumpon --- Any quantity
 
 ## Firmware
 ![IMG_7002](https://user-images.githubusercontent.com/5214078/201300486-a19fce27-7261-4fac-a14e-f837b712de54.jpeg)    
-[Firmware](https://github.com/darakuneko/Noraneko/raw/main/noraneko42gr/v1.0/firmware/noraneko42gr_vial.uf2)    
+[Firmware](https://github.com/darakuneko/Noraneko/raw/main/noraneko42gr/v1.1/firmware/noraneko42gr_vial.uf2)    
 Check if the firmware can write to RP2040-Zero.  
 Download the firmware.   
 Connect while holding down the Boot button.  
@@ -53,8 +53,9 @@ But Resistors has no polarity.
 
 ## Build
 Take the bottom acrylic paper.    
-Install spacers, screws, and Bumpon on bottom plate and main plate.    
-![IMG_0194](https://github.com/darakuneko/Noraneko/assets/5214078/3013e750-91ea-4f43-9f44-779d7e6a6134)
+Install spacers, screws, washer and Bumpon on bottom plate and main plate.    
+![IMG_0378](https://github.com/darakuneko/Noraneko/assets/5214078/9d85e9a5-ca25-417a-9d0e-5fe965d81855)
+
 
 ## Completed!!
 ![IMG_0161](https://github.com/darakuneko/Noraneko/assets/5214078/663af483-7e59-4fbb-97a7-e87c68c3012a)
