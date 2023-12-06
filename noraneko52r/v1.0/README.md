@@ -29,19 +29,14 @@ Bumpon --- Any quantity
 
 ## Firmware
 ![IMG_7002](https://user-images.githubusercontent.com/5214078/201300486-a19fce27-7261-4fac-a14e-f837b712de54.jpeg)
-[Firmware](https://github.com/darakuneko/Noraneko/raw/main/noraneko52r/v1.0/firmware/noraneko52r_vial.uf2)  
+[Firmware](https://github.com/darakuneko/Noraneko/raw/main/noraneko52r/v1.1/firmware/noraneko52r_vial.uf2)  
 Check if the firmware can write to RP2040-Zero.  
 Download the firmware.   
 Connect while holding down the Boot button.  
 RPI-RP2 will appear.  
 Copy the downloaded firmware to RPI-RP2.  
 Make sure that Noraneko52R is connected to your PC.
-
-### Feature
-CAPS WORD  
-https://github.com/qmk/qmk_firmware/blob/master/docs/feature_caps_word.md   
-Dynamic Tapping Term   
-https://github.com/qmk/qmk_firmware/blob/master/docs/tap_hold.md  
+[Vial Support](https://get.vial.today/)  
 
 ## Soldering
 ![IMG_7020](https://user-images.githubusercontent.com/5214078/201305293-fc02600c-bd61-48fc-b5ba-b1e6f3c53741.jpeg)
