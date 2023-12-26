@@ -59,3 +59,8 @@ Lotus Layout Keyboard.
 # Noraneko42GR
 Grin Layout Keyboard.
 ![IMG_0357](https://github.com/darakuneko/Noraneko/assets/5214078/11142d2c-e638-43ef-bdb7-a8958c9bca8f)
+
+# Noraneko42A
+Alice Layout Keyboard.
+![IMG_1528](https://github.com/darakuneko/Noraneko/assets/5214078/d6a72d7b-2d61-4667-a2e9-d12506c83649)
+
