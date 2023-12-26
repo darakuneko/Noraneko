@@ -21,7 +21,7 @@ WS2812B --- 8 pcs
 MX key switch --- 42 pcs   
 Stabilizers 2U --- 2 pcs    
 MX keycap    
-https://booth.pximg.net/3a4d6577-cfc5-4ca5-92b6-a2b233b974d5/i/5374158/5d14389b-c7e3-49fb-a8d4-9945c7a1167a.png 
+https://booth.pximg.net/3a4d6577-cfc5-4ca5-92b6-a2b233b974d5/i/5374158/5d14389b-c7e3-49fb-a8d4-9945c7a1167a.png   
 Bumpon --- Any quantity 
 
 ## Firmware
@@ -42,7 +42,6 @@ Make sure that Noraneko42A is connected to your PC.
 
 RP2040-Zero, diodes, LEDs and sockets.　  
 Be careful of the direction of soldering.  
-But Resistors has no polarity.
 
 ## Build
 ![IMG_1531](https://github.com/darakuneko/Noraneko/assets/5214078/8ba0d5ad-2bc5-4354-8d84-e007e11c2e9e)
