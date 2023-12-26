@@ -1,5 +1,5 @@
 # Noraneko42A  
-![IMG_0182](https://github.com/darakuneko/Noraneko/assets/5214078/35cf5e98-fbaf-432c-9d15-b2cdff0c9e14)
+![IMG_1517](https://github.com/darakuneko/Noraneko/assets/5214078/f709135a-a588-4070-a612-55fadafa1c7e)
 ![keyboard-layout](https://booth.pximg.net/3a4d6577-cfc5-4ca5-92b6-a2b233b974d5/i/5374158/5d14389b-c7e3-49fb-a8d4-9945c7a1167a.png)
 
 The Noraneko42A is 42key Alice Layout keyboard.  
@@ -45,12 +45,13 @@ Be careful of the direction of soldering.
 But Resistors has no polarity.
 
 ## Build
+![IMG_1531](https://github.com/darakuneko/Noraneko/assets/5214078/8ba0d5ad-2bc5-4354-8d84-e007e11c2e9e)
+![IMG_1533](https://github.com/darakuneko/Noraneko/assets/5214078/ab925e07-6732-4a35-b19d-c854f3978b4d)
 Take the bottom acrylic paper.    
 Install washer, spacers, screws, and Bumpon on bottom plate and main plate.    
-![IMG_0194](https://github.com/darakuneko/Noraneko/assets/5214078/3013e750-91ea-4f43-9f44-779d7e6a6134)
 
 ## Completed!!
-![IMG_0161](https://github.com/darakuneko/Noraneko/assets/5214078/663af483-7e59-4fbb-97a7-e87c68c3012a)
+![IMG_1528](https://github.com/darakuneko/Noraneko/assets/5214078/d6a72d7b-2d61-4667-a2e9-d12506c83649)
 
 Take the top & middle acrylic paper.  
 Put on the switches and keycaps and you're done!!
