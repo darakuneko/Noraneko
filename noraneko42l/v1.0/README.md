@@ -14,8 +14,8 @@ M2 spacer 3mm --- 9 pcs
 M2 screw 3mm --- 18 pcs  (Screw heads should be 2 mm or less）  
 RP2040-Zero --- 1 pc   
 1N4148W --- 42 pcs  
-SK6812MINI-E --- 42 pcs  
-WS2812B --- 13 pcs  
+SK6812MINI-E --- 45 pcs  
+WS2812B --- 12 pcs  
 BSS138 --- 1 pc  
 Resistor 1K Ohm 1/4 Watt PTH --- 2 pcs   
 If it does not glow, change the type of resistor. ([reference](https://25keys.com/2022/05/28/rp2040_sk6812mini/))   

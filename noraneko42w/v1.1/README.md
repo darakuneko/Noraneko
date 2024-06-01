@@ -15,8 +15,8 @@ M2 spacer 3mm --- 9 pcs
 M2 screw 3mm --- 18 pcs  (Screw heads should be 2 mm or less）  
 RP2040-Zero --- 1 pc   
 1N4148W --- 42 pcs  
-SK6812MINI-E --- 42 pcs  
-WS2812B --- 13 pcs  
+SK6812MINI-E --- 45 pcs  
+WS2812B --- 12 pcs  
 MX key switch --- 42 pcs    
 MX keycap   --- 42 pcs (1U)   
 Bumpon --- Any quantity 
