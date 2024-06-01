@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Noraneko")(type "KiCad")(uri "/home/ubuntu/Develop/keeb/Noraneko/noraneko42l/v1.0/pcb/footprint/noraneko.pretty")(options "")(descr ""))
+)
