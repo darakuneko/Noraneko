@@ -1,8 +1,8 @@
 # Noraneko42SGR  
-![IMG_1517](https://github.com/darakuneko/Noraneko/assets/5214078/f709135a-a588-4070-a612-55fadafa1c7e)
-![keyboard-layout](https://booth.pximg.net/3a4d6577-cfc5-4ca5-92b6-a2b233b974d5/i/5374158/5d14389b-c7e3-49fb-a8d4-9945c7a1167a.png)
+![IMG_4377](https://github.com/user-attachments/assets/3cc3d3a8-d58b-4fef-abe6-de3f4ce3b15f)
+![keyboard-layout](https://booth.pximg.net/3a4d6577-cfc5-4ca5-92b6-a2b233b974d5/i/6043317/fea123fa-a97e-4534-b815-77e4f652dba9.png)
 
-The Noraneko42SGR is 42key Alice Layout keyboard.  
+The Noraneko42SGR is 42key Sagittarius Layout keyboard.  
 
 ## Parts  
 
@@ -11,17 +11,15 @@ Middle acrylic plate --- 1 pc
 Main FR4 plate --- 1 pc  
 Bottom1 acrylic plate --- 1 pc    
 Bottom2 acrylic plate --- 1 pc  
-M2 washer --- 7 pcs  
 M2 spacer 3mm --- 7 pcs  
 M2 screw 3.5mm --- 14 pcs  (Screw heads should be 2 mm or less）  
 RP2040-Zero --- 1 pc   
 1N4148W --- 42 pcs   
 SK6812MINI-E --- 42 pcs  
-WS2812B --- 8 pcs  
+WS2812B --- 7 pcs  
 MX key switch --- 42 pcs   
-Stabilizers 2U --- 2 pcs    
 MX keycap    
-https://booth.pximg.net/3a4d6577-cfc5-4ca5-92b6-a2b233b974d5/i/5374158/5d14389b-c7e3-49fb-a8d4-9945c7a1167a.png   
+https://booth.pximg.net/3a4d6577-cfc5-4ca5-92b6-a2b233b974d5/i/6043317/fea123fa-a97e-4534-b815-77e4f652dba9.png   
 Bumpon --- Any quantity 
 
 ## Firmware
@@ -44,13 +42,15 @@ RP2040-Zero, diodes, LEDs and sockets.　
 Be careful of the direction of soldering.  
 
 ## Build
-![IMG_1531](https://github.com/darakuneko/Noraneko/assets/5214078/8ba0d5ad-2bc5-4354-8d84-e007e11c2e9e)
-![IMG_1533](https://github.com/darakuneko/Noraneko/assets/5214078/ab925e07-6732-4a35-b19d-c854f3978b4d)
+![IMG_4377](https://github.com/user-attachments/assets/3cc3d3a8-d58b-4fef-abe6-de3f4ce3b15f)
+![IMG_4366](https://github.com/user-attachments/assets/c48988d2-92c5-4711-9911-cf019c00abff)
+
 Take the bottom acrylic paper.    
 Install washer, spacers, screws, and Bumpon on bottom plate and main plate.    
 
 ## Completed!!
-![IMG_1528](https://github.com/darakuneko/Noraneko/assets/5214078/d6a72d7b-2d61-4667-a2e9-d12506c83649)
+![IMG_4370](https://github.com/user-attachments/assets/855c5af9-2ec7-41e3-b25a-174e1e41792e)
+
 
 Take the top & middle acrylic paper.  
 Put on the switches and keycaps and you're done!!
