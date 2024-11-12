@@ -64,7 +64,7 @@ Grin Layout Keyboard.
 Alice Layout Keyboard.
 ![IMG_1528](https://github.com/darakuneko/Noraneko/assets/5214078/d6a72d7b-2d61-4667-a2e9-d12506c83649)
 
-#Noraneko42SGR
+# Noraneko42SGR
 Sagittarius Layout Keyboard.
 ![IMG_4370](https://github.com/user-attachments/assets/bf44134e-0f49-423e-a82d-aa0bdf86e1d3)
 
