@@ -40,12 +40,12 @@ base on geek-rabb1t's Symbol & Footprint.
 https://github.com/geek-rabb1t/keyboard_footprint
 
 ## Noraneko42C
-Column Staggered Keyboard.
+Column Staggered Layout Keyboard.
 ![Noraneko42C_IMG_1](https://user-images.githubusercontent.com/5214078/194799229-ef4e0b20-bb9d-41c9-a0aa-d7715e9783fa.jpeg)
 ![Noraneko42C_IMG_2](https://user-images.githubusercontent.com/5214078/194799234-a3ef62dd-bfc3-4b87-ab35-2c0d2923196e.jpeg)
 
 ## Noraneko52R
-Row Staggered Keyboard.
+Row Staggered Layout Keyboard.
 ![PB110431](https://user-images.githubusercontent.com/5214078/201291403-1c507f01-ba00-48f3-926b-d54291d19f54.JPG)
 
 ## Noraneko42W
@@ -68,3 +68,6 @@ Alice Layout Keyboard.
 Sagittarius Layout Keyboard.
 ![IMG_4370](https://github.com/user-attachments/assets/bf44134e-0f49-423e-a82d-aa0bdf86e1d3)
 
+# Noraneko42UZU  
+Uzu Layout Keyboard.
+![IMG_5237](https://github.com/user-attachments/assets/844ce284-39c5-4f6e-93d3-a82ac4afc536)
