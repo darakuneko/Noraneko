@@ -66,8 +66,13 @@ Alice Layout Keyboard.
 
 # Noraneko42SGR
 Sagittarius Layout Keyboard.
-![IMG_4370](https://github.com/user-attachments/assets/bf44134e-0f49-423e-a82d-aa0bdf86e1d3)
+![IMG_4370](https://github.com/user-attachments/assets/efc51c30-7fb0-4561-aee7-e59cc73d4430)
 
 # Noraneko42UZU  
 Uzu Layout Keyboard.
 ![IMG_5237](https://github.com/user-attachments/assets/844ce284-39c5-4f6e-93d3-a82ac4afc536)
+
+# Noraneko42O
+Ortholinear Layout Keyboard.
+![IMG_5970](https://github.com/user-attachments/assets/4d69c26e-99cf-4d54-8518-e9c1bc5ce1a0)
+
