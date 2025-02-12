@@ -1,7 +1,7 @@
 # Noraneko42O  
-![IMG_5237](https://github.com/user-attachments/assets/844ce284-39c5-4f6e-93d3-a82ac4afc536)
+![IMG_5970](https://github.com/user-attachments/assets/dda5cb52-b884-43ff-9d95-0dae9b693ec3)
 
-The Noraneko42O is 42key O Layout keyboard.  
+The Noraneko42O is 42key Ortholinear Layout keyboard.  
 
 ## Parts  
 
@@ -10,13 +10,14 @@ Middle acrylic plate --- 1 pc
 Main FR4 plate --- 1 pc  
 Bottom1 acrylic plate --- 1 pc    
 Bottom2 acrylic plate --- 1 pc  
+M2 washer --- 8 pcs  
 M2 spacer 3mm --- 8 pcs  
-M2 screw 3mm --- 16 pcs  (Screw heads should be 2 mm or less）  
+M2 screw 3.5mm --- 16 pcs (Screw heads should be 2 mm or less）  
 RP2040-Zero --- 1 pc   
 EC12 Rotary Encoder --- 1 pc   
 1N4148W --- 42 pcs   
 SK6812MINI-E --- 42 pcs  
-WS2812B --- 7 pcs  
+WS2812B --- 5 pcs  
 MX key switch --- 42 pcs   
 MX keycap  --- 42 pcs  
 Bumpon --- Any quantity 
@@ -42,13 +43,13 @@ RP2040-Zero, Encoder, diodes, LEDs and sockets.　
 Be careful of the direction of soldering.  
 
 ## Build
-![IMG_5226](https://github.com/user-attachments/assets/680c2798-0195-49b1-9312-da87c634edfe)
+![IMG_5965](https://github.com/user-attachments/assets/794f50fb-54ff-47fc-a1af-1396f4311fe7)
 
 Take the bottom acrylic paper.    
 Install washer, spacers, screws, and Bumpon on bottom plate and main plate.    
 
 ## Completed!!
-![IMG_5237](https://github.com/user-attachments/assets/844ce284-39c5-4f6e-93d3-a82ac4afc536)
+![IMG_5970](https://github.com/user-attachments/assets/dda5cb52-b884-43ff-9d95-0dae9b693ec3)
 
 Take the top & middle acrylic paper.  
 Put on the switches and keycaps and you're done!!
