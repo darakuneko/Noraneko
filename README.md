@@ -76,3 +76,6 @@ Uzu Layout Keyboard.
 Ortholinear Layout Keyboard.
 ![IMG_5970](https://github.com/user-attachments/assets/4d69c26e-99cf-4d54-8518-e9c1bc5ce1a0)
 
+# Noraneko43TS
+Symmetric staggered keyboard.
+![IMG_6225](https://github.com/user-attachments/assets/78a1e6b4-61af-4033-9646-d00788f4bc60)
