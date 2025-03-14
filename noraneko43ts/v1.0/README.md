@@ -1,6 +1,5 @@
 # Noraneko43TS
-![IMG_0997](https://user-images.githubusercontent.com/5214078/236360290-e5d74d66-4fdc-4d01-998e-0f6cf52e253a.jpeg)
-![77f7c019-44f0-4f18-8f08-11a2cd835d37](https://user-images.githubusercontent.com/5214078/234233882-9f5b7b9d-7cc3-4c86-afa1-ace0eb25df0a.png)
+![IMG_6225](https://github.com/user-attachments/assets/78a1e6b4-61af-4033-9646-d00788f4bc60)
 
 Noraneko43TS is 43key Symmetric staggered keyboard.  
 
@@ -43,7 +42,7 @@ Be careful of the direction of soldering.
 But Resistors has no polarity.
 
 ## Build
-![77f7c019-44f0-4f18-8f08-11a2cd835d37](https://user-images.githubusercontent.com/5214078/234233882-9f5b7b9d-7cc3-4c86-afa1-ace0eb25df0a.png)
+![IMG_6202](https://github.com/user-attachments/assets/d3ffb692-2282-4575-ac25-f76fec2b5d2a)
 
 Take the bottom acrylic paper.   
 Install spacers, screws, and Bumpon on bottom plate and main plate.
@@ -52,7 +51,7 @@ If you are concerned about LED flicker caused by acrylic.
 https://twitter.com/daraku__neko/status/1652335060878753798
 
 ## Completed!!
-![IMG_0997](https://user-images.githubusercontent.com/5214078/236360290-e5d74d66-4fdc-4d01-998e-0f6cf52e253a.jpeg)
+![IMG_6225](https://github.com/user-attachments/assets/78a1e6b4-61af-4033-9646-d00788f4bc60)
 
 Take the top & middle acrylic paper.  
 Put on the switches and keycaps and you're done!!
