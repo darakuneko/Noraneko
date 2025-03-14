@@ -1,7 +1,7 @@
 # Noraneko43TS
 ![IMG_6225](https://github.com/user-attachments/assets/78a1e6b4-61af-4033-9646-d00788f4bc60)
 
-Noraneko43TS is 43key Symmetric staggered keyboard.  
+Noraneko43TS is 43key Symmetric staggered Layout (Treadstone Layout) keyboard.
 
 ## Parts  
 
