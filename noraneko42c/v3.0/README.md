@@ -1,22 +1,22 @@
 # Noraneko42C  
-![Noraneko42C_IMG_1](https://user-images.githubusercontent.com/5214078/196882903-22b1fa8a-44e3-4212-9d38-8bedc18b1d12.jpg)
+<img width="4706" height="2611" alt="IMG_0508 (1)" src="https://github.com/user-attachments/assets/8e2a9807-e544-4fed-9a3a-5e22173c7f8a" />
+
 ![Noraneko42C_KeySize](https://user-images.githubusercontent.com/5214078/196393201-60cdc355-7164-41e4-bd3a-4421e170aeed.png)
 
 The Noraneko42C is 42key column staggered keyboard.  
 
 ## Parts  
 
-Top acrylic plate --- 1 pc  
-Middle acrylic plate --- 1 pc   
+Top plate --- 1 pc  
+Middle plate --- 1 pc   
 Main FR4 plate --- 1 pc  
-Bottom1 acrylic plate --- 1 pc    
-Bottom2 acrylic plate --- 1 pc  
-M2 spacer 3mm --- 7 pcs  
-M2 screw 3mm --- 14 pcs  (Screw heads should be 2 mm or less）  
+Bottom1 plate --- 1 pc    
+Bottom2 plate --- 1 pc  
+M2 spacer 3mm --- 11 pcs  
+M2 screw 3mm --- 22 pcs  (Screw heads should be 2 mm or less）  
 RP2040-Zero --- 1 pc   
 1N4148W --- 42 pcs   
-SK6812MINI-E --- 47 pcs  
-WS2812B --- 6 pcs  
+SK6812MINI-E --- 42 pcs  
 MX key switch --- 42 pcs   
 MX keycap 1U --- 38 pcs  
 MX keycap 1.25U --- 4 pcs  
@@ -25,9 +25,7 @@ Bumpon --- Any quantity
 ## Firmware
 ![IMG_7002](https://user-images.githubusercontent.com/5214078/201300486-a19fce27-7261-4fac-a14e-f837b712de54.jpeg)
 Firmware
-[v2.1](https://github.com/darakuneko/Noraneko/raw/main/noraneko42c/v2.1/firmware/noraneko42c_vial.uf2)  
-Old Firmware
-[v2.0](https://github.com/darakuneko/Noraneko/raw/main/noraneko42c/v2.0/firmware/noraneko42c_vial.uf2)  
+[v3.0](https://github.com/darakuneko/Noraneko/raw/main/noraneko42c/v3.0/firmware/noraneko42c_vial.uf2)  
 Check if the firmware can write to RP2040-Zero.  
 Download the firmware.   
 Connect while holding down the Boot button.  
@@ -35,11 +33,6 @@ RPI-RP2 will appear.
 Copy the downloaded firmware to RPI-RP2.  
 Make sure that Noraneko42C is connected to your PC.    
 [Vial Support](https://get.vial.today/)  
-
-### Feature
-CAPS WORD  
-https://github.com/qmk/qmk_firmware/blob/master/docs/feature_caps_word.md   
-
 
 ## Soldering
 ![IMG_5585](https://user-images.githubusercontent.com/5214078/196370976-1ae8f0df-43c9-4802-8a62-8c840f756a45.png)
@@ -52,16 +45,18 @@ Be careful of the direction of soldering.
 But Resistors has no polarity.
 
 ## Build
-Take the bottom acrylic paper.
-Install spacers, screws, and Bumpon on bottom plate and main plate.
-Use black masking tape to hide the LEDs.
+<img width="3158" height="2334" alt="IMG_0489" src="https://github.com/user-attachments/assets/f060970d-bdde-48d8-aa7d-c59c3ec9e809" />
+<img width="2702" height="2128" alt="IMG_0487" src="https://github.com/user-attachments/assets/b12c7468-8218-4130-aa9e-8fb54ca44244" />
+<img width="4825" height="2119" alt="IMG_0484" src="https://github.com/user-attachments/assets/91eb102b-6cb1-431d-91d1-d36275f051e6" />
+<img width="3709" height="1534" alt="IMG_0492" src="https://github.com/user-attachments/assets/120526f4-d1b4-426e-a5d7-406f6bf75a1f" />
+<img width="3747" height="1764" alt="IMG_0493" src="https://github.com/user-attachments/assets/d23e80f9-f211-4bea-896e-3286d911b037" />
+<img width="4032" height="3024" alt="IMG_0496" src="https://github.com/user-attachments/assets/430dd1b2-325f-479f-b264-9ff84da90bb6" />
+<img width="4032" height="3024" alt="IMG_0497" src="https://github.com/user-attachments/assets/fa223086-636c-46b1-9903-ff3ebfb51c18" />
+<img width="3403" height="2577" alt="IMG_0506" src="https://github.com/user-attachments/assets/40a9bee4-a6da-4937-85fb-e233d0894451" />
 
-If you are concerned about LED flicker caused by acrylic.  
-https://twitter.com/daraku__neko/status/1652335060878753798
+Install spacers, screws, and Bumpon on bottom plate and main plate.
+Put on the switches and keycaps and you're done.
 
 ## Completed!!
-![IMG_6323](https://user-images.githubusercontent.com/5214078/196386005-e37d383a-50cc-4467-bee8-0927a232b3dd.jpeg)
-![IMG_6329](https://user-images.githubusercontent.com/5214078/196386015-f20594ee-d489-467e-98a4-e742261f586a.jpeg)
+<img width="4794" height="3777" alt="IMG_0527" src="https://github.com/user-attachments/assets/cc0a3b94-6e99-43f0-8b2c-777cc20caee3" />
 
-Take the top & middle acrylic paper.  
-Put on the switches and keycaps and you're done!!
