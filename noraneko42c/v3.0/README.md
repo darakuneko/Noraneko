@@ -1,5 +1,5 @@
 # Noraneko42C  
-<img width="4706" height="2611" alt="IMG_0508 (1)" src="https://github.com/user-attachments/assets/8e2a9807-e544-4fed-9a3a-5e22173c7f8a" />
+<img width="4706" height="2611" src="https://github.com/user-attachments/assets/8e2a9807-e544-4fed-9a3a-5e22173c7f8a" />
 
 ![Noraneko42C_KeySize](https://user-images.githubusercontent.com/5214078/196393201-60cdc355-7164-41e4-bd3a-4421e170aeed.png)
 
@@ -59,4 +59,3 @@ Put on the switches and keycaps and you're done.
 
 ## Completed!!
 <img width="4794" height="3777" alt="IMG_0527" src="https://github.com/user-attachments/assets/cc0a3b94-6e99-43f0-8b2c-777cc20caee3" />
-
